@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** with live project and client-facing experience. My focus is on creating scalable, user-centric applications that solve real-world problems. I have also been actively involved in national-level hackathons, worked with real-time AI models, and deployed production-grade websites for clients.
+I'm a passionate Full Stack Web Developer with live project and client-facing experience. While I haven’t yet contributed to large-scale open-source projects via pull requests, I’ve deployed and currently maintain production-grade websites, including a full-featured e-commerce platform. I now understand the complete pull request workflow and am actively looking to contribute to impactful open-source projects. My hands-on experience, adaptability, and ability to deliver real-world solutions make me a strong and eligible candidate for development roles in open, collaborative environments.
 
 > 💡 I believe in building solutions, not just writing code.
 
@@ -26,6 +26,11 @@ I'm a passionate **Full Stack Web Developer** with live project and client-facin
 **Other**: REST API, NLP, Computer Vision, Azure AI, IBM SkillsBuild
 
 ---
+
+### 🛠️ Open Source Contribution
+- ✅ [First Contributions](https://github.com/firstcontributions/first-contributions) – Added contributor entry as my first GitHub PR  
+  ➤ [View PR #101080 →](https://github.com/firstcontributions/first-contributions/pull/101080)
+
 
 ## 💼 Featured Projects
 
