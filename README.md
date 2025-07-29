@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Full Stack Web Developer with live project and client-facing experience. While I haven’t yet contributed to large-scale open-source projects via pull requests, I’ve deployed and currently maintain production-grade websites, including a full-featured e-commerce platform. I now understand the complete pull request workflow and am actively looking to contribute to impactful open-source projects. My hands-on experience, adaptability, and ability to deliver real-world solutions make me a strong and eligible candidate for development roles in open, collaborative environments.
+I'm a passionate Full Stack Web Developer with live project and client-facing experience. While I haven’t yet contributed to large-scale open-source projects via pull requests but I’ve deployed and currently maintaining production-grade website, including a full-featured e-commerce platform. I now understand the complete pull request workflow and am actively looking to contribute to impactful open-source projects. My hands-on experience, adaptability, and ability to deliver real-world solutions make me a strong and eligible candidate for development roles in open, collaborative environments.
 
 > 💡 I believe in building solutions, not just writing code.
 
